@@ -32,3 +32,11 @@
 * * * * 
 * * * * 
 * * * * 
+
+# This hollwsquare file contaon the java code which return the hollow square
+*****
+*   *
+*   *
+*   *
+*   *
+*****
