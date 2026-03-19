@@ -19,4 +19,16 @@
  *  * 
 *****
 
-#
+# This Sqayre file contains java file. which return always square box pattern. 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+
+# This Rectangle java file return the square, rectangle what user want it can return the such pattern
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+* * * * 
