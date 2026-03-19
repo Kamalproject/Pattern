@@ -1,4 +1,4 @@
-#this java file contains simple code to create triangle pattern
+# this java file contains simple code to create triangle pattern
 *
 **
 ***
