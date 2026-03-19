@@ -12,4 +12,11 @@
 **
 *
 
+# The third file (HollowTriangle.java) contains how to draw the Hollow traingle
+    *    
+   **   
+  * *  
+ *  * 
+*****
+
 #
